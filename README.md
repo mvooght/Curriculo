@@ -39,5 +39,5 @@ Acesse o arquivo final em PDF.
   A versão mais recente do currículo pode ser acessada aqui.
   
   📬 Contato
-  📧 GitHub | 🔗 LinkedIn
+  📧 GitHub: https://github.com/mvooght/ | 🔗 LinkedIn: https://www.linkedin.com/in/mvooght/
 
