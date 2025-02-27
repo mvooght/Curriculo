@@ -38,6 +38,8 @@ Acesse o arquivo final em PDF.
   📥 Download
   A versão mais recente do currículo pode ser acessada aqui.
   
+  Disponivel em: https://www.overleaf.com/read/qyvnqxhctnzj#ed2b80
+  
   📬 Contato
   📧 GitHub: https://github.com/mvooght/ | 🔗 LinkedIn: https://www.linkedin.com/in/mvooght/
 
